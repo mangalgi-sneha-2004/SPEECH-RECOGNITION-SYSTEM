@@ -1,9 +1,24 @@
 # SPEECH-RECOGNITION-SYSTEM
 
-Description of the Audio Transcription Code
-This Python script performs speech-to-text transcription using Facebook's Wav2Vec2 model from the Hugging Face Transformers library. It converts an audio file (e.g., MP3, WAV) into text while also visualizing the audio waveform and allowing playback (in Jupyter Notebook).
+COMANY:CODTECH IT SOLUTIONS
+
+NAME:MANGALGI SNEHA
+
+INTERN-ID:CTO4WT53
+
+DOMAIN:ARTIFICIAL INTELLIGENCE
+
+DURATION:4 WEEKS
+
+DESCRIPTION:
+
+This Python script performs speech-to-text transcription using Facebook's Wav2Vec2 model from the Hugging Face Transformers library. It converts an audio file (e.g., MP3, WAV) into text while also visualizing the 
+
+audio waveform and allowing playback (in Jupyter Notebook).
+
 
 Key Steps & Features:
+
 Initial Setup & Warnings Handling
 
 The code suppresses unnecessary warnings (e.g., model weight mismatches, future deprecations) for cleaner output.
