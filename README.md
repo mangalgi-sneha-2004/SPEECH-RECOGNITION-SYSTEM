@@ -58,3 +58,9 @@ Decodes the output into text with processor.batch_decode().
 Error Handling
 
 Catches and displays errors (e.g., file not found, audio loading issues).
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/81658eeb-a31d-4466-831c-ec35ad25e787)
+
+
